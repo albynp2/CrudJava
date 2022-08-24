@@ -1,0 +1,12 @@
+Fungsi yang terdapat di aplikasi
+-Crete
+-Update
+-Delete
+-Batal (untuk refresh)
+-Search
+
+Validasi yang terdapat di aplikasi
+- Ketika NIK sudah terdaftar
+- Validasi Mandatory disetiap field ( tetapi masih text field semua)
+- Popup ketika delete data (popup confirmation)
+- klik button delete tanpa mengklik terlebih dahulu table yang akan dihapus
